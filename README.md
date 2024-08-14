@@ -1,6 +1,6 @@
 # Projeto Pokedex
 
-Projeto Desenvolvido com base no evento do Canal [DevemDobro](https://github.com/devemdobro), onde foram colhidos aprendizados importantes sobre as tecnologias HTML, CSS e Javascript, ferramentas essencias para o desenvolvimento de sites eficazes. 
+Projeto Desenvolvido com base no evento do Canal <a href="https://github.com/devemdobro" target="_blank">DevemDobro</a>, onde foram colhidos aprendizados importantes sobre as tecnologias HTML, CSS e Javascript, ferramentas essencias para o desenvolvimento de sites eficazes. 
 
 
 ![projeto_pokedex](https://github.com/user-attachments/assets/5f923374-c480-469a-a445-3e31cbca720e)
