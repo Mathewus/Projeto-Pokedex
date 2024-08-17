@@ -285,7 +285,7 @@ main {
 
 .lista-pokemon .pokemon-item.selecionado {
 
-    background-color: #e44548e5;
+    background-color: #e44a4ce5;
     transform: scale(1.04);
 
 }
