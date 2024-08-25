@@ -3,7 +3,8 @@
 Projeto Desenvolvido com base no evento do Canal <a href="https://github.com/devemdobro" target="_blank">DevemDobro</a>, onde foram colhidos aprendizados importantes sobre as tecnologias HTML, CSS e Javascript, ferramentas essencias para o desenvolvimento de sites eficazes. 
 
 
-![projeto_pokedex](https://github.com/user-attachments/assets/5f923374-c480-469a-a445-3e31cbca720e)
+![pokedex](https://github.com/user-attachments/assets/7ed5854d-cbdc-483a-8ba4-bb70b5c17294)
+
 
 ## Funcionamento
 
