@@ -165,6 +165,7 @@ main {
         opacity: 1;
     }
 
+
 }
 
 .tipo-eletrico {
@@ -285,7 +286,7 @@ main {
 
 .lista-pokemon .pokemon-item.selecionado {
 
-    background-color: #e44a4ce5;
+    background-color: #dd5d5ff1;
     transform: scale(1.04);
 
 }
